@@ -1,4 +1,4 @@
-# XHRRequest
+# XHRequest
 Trying to do an easier way to perform JS XHR requests  than JQuery or native JS
 
 How to prepare a Request
